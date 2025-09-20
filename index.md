@@ -14,6 +14,7 @@
     <div class="person">
       <strong>Dr. Javier Díaz de Terán</strong><br>
       Coordinador de la Unidad de Cefaleas
+      <img src="foto-javi.peg" alt="Foto de javi">
     </div>
     <div class="person">
       <strong>Lucía Zaballa</strong><br>
