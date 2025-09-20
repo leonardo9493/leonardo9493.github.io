@@ -1,3 +1,9 @@
+`markdown
+---
+layout: default
+---
+`
+
 # Unidad de Cefaleas - Hospital Universitario La Paz
 
 ¡Bienvenido a la página de la Unidad de Cefaleas!
