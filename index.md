@@ -4,7 +4,7 @@
 
 ---
 
-## Nuestro Equipo
+## [Nuestro Equipo](./nuestro-equipo.html)
 
 Aquí puedes listar a los miembros del equipo. De momento, es un texto simple. Más adelante podemos hacerlo más
 visual.
