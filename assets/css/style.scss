@@ -4,20 +4,19 @@
 #header {
   display: none;
 }
-/* Estilos para la lista horizontal de miembros */
-.lista-horizontal {
-  display: flex;         /* Activa el modo Flexbox: ¡la magia ocurre aquí! */
-  flex-wrap: wrap;       /* Permite que los elementos bajen de línea si no caben */
-  list-style: none;      /* Quita los puntos de la lista */
-  padding: 0;            /* Quita el espaciado por defecto de la lista */
-  margin: 0;
+/* Contenedor principal para las dos columnas */
+.team-grid {
+  display: flex;         /* ¡La magia de Flexbox para alinear elementos! */
+  gap: 40px;             /* Define el espacio que habrá ENTRE las dos columnas */
 }
 
-.lista-horizontal li {
-  margin-right: 20px;    /* Crea un espacio a la derecha de cada miembro */
+/* Estilo para cada columna */
+.team-grid .column {
+  flex: 1;               /* Le dice a cada columna que ocupe la mitad del espacio disponible */
+  width: 50%;
 }
 
-/* Opcional: para que el último elemento no tenga espacio a la derecha */
-.lista-horizontal li:last-child {
-  margin-right: 0;
+/* Espacio vertical entre las personas de una misma columna */
+.team-grid .person {
+  margin-bottom: 25px;   /* Añade un poco de aire debajo de cada persona */
 }
