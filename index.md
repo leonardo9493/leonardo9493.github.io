@@ -1,9 +1,3 @@
-  `markdown
-  ---
-  layout: default
-  title: Inicio
-  ---
-
   # Unidad de Cefaleas - Hospital Universitario La Paz
 
   ¡Bienvenido a la página de la Unidad de Cefaleas!
@@ -27,4 +21,3 @@
   *   Información para Pacientes (./informacion-paciente.html)
   *   Información para Médicos (./informacion-medicos.html)
   *   Nuestra Actividad y Publicaciones (./publicaciones.html)
-  `
