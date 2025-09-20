@@ -1,24 +1,15 @@
-`markdown
----
-layout: default
----
-`
-
 # Unidad de Cefaleas - Hospital Universitario La Paz
 
-¡Bienvenido a la página de la Unidad de Cefaleas!
+¡Bienvenido a la página web de la Unidad!
 
 ---
 
 ## [Nuestro Equipo](./nuestro-equipo.html)
 
-Aquí puedes listar a los miembros del equipo. De momento, es un texto simple. Más adelante podemos hacerlo más
-visual.
-
-  *   Dr. Nombre Apellido - Jefe de Sección
-  *   Dra. Nombre Apellido - Facultativo Especialista
-  *   Dr. Nombre Apellido - Residente
-  *   ... (añade más miembros aquí)
+  *   Dr. Javier Díaz de Terán - Coordinador de la Unidad de Cefaleas
+  *   Leonardo Portocarrero Sánchez - Neurólogo 
+  *   Lucía Zaballa - Neuróloga
+  *   Maria José Ruiz Castrillo - Enfermera Especializada
 
 ---
 
