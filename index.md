@@ -8,10 +8,14 @@
 ## [Nuestro Equipo](./nuestro-equipo.html)
 
 <ul class="lista-horizontal">
-  <li>Dr. Javier Díaz de Terán - Coordinador de la Unidad de Cefaleas</li>
-  <li>Leonardo Portocarrero Sánchez - Neurólogo</li>
-  <li>Lucía Zaballa - Neuróloga</li>
-  <li>Maria José Ruiz Castrillo - Enfermera Especializada</li>
+  <li>Dr. Javier Díaz de Terán
+    Coordinador de la Unidad de Cefaleas</li>
+  <li>Leonardo Portocarrero Sánchez 
+    Neurólogo</li>
+  <li>Lucía Zaballa
+    Neuróloga</li>
+  <li>Maria José Ruiz Castrillo
+    Enfermera Especializada</li>
 </ul>
 ---
 
@@ -20,3 +24,4 @@
   *   [Información para Pacientes](./informacion-paciente.html)
   *   [Información para Médicos](./informacion-medicos.html)
   *   [Nuestra Actividad y Publicaciones](./publicaciones.html)
+g
