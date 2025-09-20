@@ -4,3 +4,20 @@
 #header {
   display: none;
 }
+/* Estilos para la lista horizontal de miembros */
+.lista-horizontal {
+  display: flex;         /* Activa el modo Flexbox: ¡la magia ocurre aquí! */
+  flex-wrap: wrap;       /* Permite que los elementos bajen de línea si no caben */
+  list-style: none;      /* Quita los puntos de la lista */
+  padding: 0;            /* Quita el espaciado por defecto de la lista */
+  margin: 0;
+}
+
+.lista-horizontal li {
+  margin-right: 20px;    /* Crea un espacio a la derecha de cada miembro */
+}
+
+/* Opcional: para que el último elemento no tenga espacio a la derecha */
+.lista-horizontal li:last-child {
+  margin-right: 0;
+}
