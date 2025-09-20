@@ -16,7 +16,22 @@
   width: 50%;
 }
 
-/* Espacio vertical entre las personas de una misma columna */
+/* ESTA ES LA REGLA MODIFICADA: Centra el texto y la foto verticalmente */
 .team-grid .person {
-  margin-bottom: 25px;   /* Añade un poco de aire debajo de cada persona */
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
+
+/* ESTA ES LA REGLA NUEVA: Estilos para las fotos del equipo */
+.team-grid .person img {
+  max-width: 150px;
+  width: 100%;
+  height: auto;
+  margin-top: 15px;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}```
