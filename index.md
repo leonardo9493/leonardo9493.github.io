@@ -1,5 +1,6 @@
 # Unidad de Cefaleas - Hospital Universitario La Paz
-![Logo de la unidad](logo-unidad.png)
+<!-- Dale a tu imagen una clase descriptiva, como "imagen-mediana" -->
+<img src="logo-unidad.png" alt="logo unidad" class="logo unidad">
 
 ¡Bienvenido a la página web de la Unidad!
 
