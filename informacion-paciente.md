@@ -13,7 +13,6 @@ tratamientos efectivos.
 *   Sensibilidad a la luz (*fotofobia*) y al sonido (*fonofobia*).
 *   Náuseas o vómitos.
 
-# Tratamiento anticuerpos
-<div class="responsive-video">
-  <iframe src="https://www.youtube.com/embed/BN0huns4AHA?si=cJLJrKAtqaXPMLOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+En caso de recibir tratamiento con algún anticuerpo, visite el siguiente enlace para ver instrucciones en el caso de que no lo tenga claro:
+
+[Información administración anticuerpos](./tratamiento-anticuerpos.html)
