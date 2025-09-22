@@ -52,3 +52,14 @@
   width: 100%;
   height: 100%;
 }
+
+/* --- ESTILOS PARA IMÁGENES PERSONALIZADAS --- */
+
+.imagen-mediana {
+  max-width: 400px;     /* El tamaño máximo que quieres que tenga, por ejemplo, 400px */
+  width: 100%;           /* Esto la hace responsive: se encogerá si el espacio es menor */
+  height: auto;          /* Mantiene la proporción correcta de alto/ancho */
+  display: block;        /* Ayuda a evitar espacios extraños debajo de la imagen */
+  margin-left: auto;     /* Estos dos márgenes... */
+  margin-right: auto;    /* ...centran la imagen horizontalmente. ¡Un buen truco! */
+}
