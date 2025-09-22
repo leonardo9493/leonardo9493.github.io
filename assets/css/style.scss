@@ -1,9 +1,21 @@
 ---
 ---
 @import "{{ site.theme }}";
+
+/* --- ESTILOS GENERALES --- */
+
+/* Para ocultar la cabecera del tema */
+
 #header {
   display: none;
 }
+
+/* Oculta la sección del título principal del tema */
+#title {
+  display: none;
+}
+
+
 /* Contenedor principal para las dos columnas */
 .team-grid {
   display: flex;         /* ¡La magia de Flexbox para alinear elementos! */
